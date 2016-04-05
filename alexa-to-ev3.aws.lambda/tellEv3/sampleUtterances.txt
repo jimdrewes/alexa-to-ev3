@@ -1,0 +1,11 @@
+MoveIntent move {Action} by {Value}
+MoveIntent move {Action} {Value}
+MoveIntent move {Action}
+MoveIntent move {Action} {Value} degrees
+MoveIntent move {Action} {Value} steps
+MoveIntent {Action} by {Value}
+MoveIntent {Action} {Value}
+MoveIntent {Action}
+MoveIntent {Action} {Value} degrees
+MoveIntent {Action} {Value} steps
+StopIntent end

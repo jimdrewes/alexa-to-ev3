@@ -1,0 +1,8 @@
+Forward
+Backward
+Left
+Right
+Turn
+Go
+Stop
+Reverse

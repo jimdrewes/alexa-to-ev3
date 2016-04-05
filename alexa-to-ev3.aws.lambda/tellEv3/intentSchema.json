@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "intent": "MoveIntent",
+      "slots": [
+        {
+          "name": "Action",
+          "type": "LIST_OF_ACTIONS"
+        },
+        {
+          "name": "Value",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "StopIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
