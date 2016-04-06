@@ -1,0 +1,9 @@
+/Users/jimdrewes/Projects/test-mono-console/test-mono-console/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jimdrewes/Projects/test-mono-console/test-mono-console/bin/Debug/test-mono-console.exe.mdb
+/Users/jimdrewes/Projects/test-mono-console/test-mono-console/bin/Debug/test-mono-console.exe
+/Users/jimdrewes/Projects/test-mono-console/test-mono-console/obj/x86/Debug/test-mono-console.exe
+/Users/jimdrewes/Projects/test-mono-console/test-mono-console/obj/x86/Debug/test-mono-console.exe.mdb
+/Users/jimdrewes/Projects/test-mono-console/test-mono-console/bin/Debug/AWSSDK.Core.dll
+/Users/jimdrewes/Projects/test-mono-console/test-mono-console/bin/Debug/AWSSDK.SQS.dll
+/Users/jimdrewes/Projects/test-mono-console/test-mono-console/bin/Debug/Lego.Ev3.Desktop.dll
+/Users/jimdrewes/Projects/test-mono-console/test-mono-console/bin/Debug/Newtonsoft.Json.dll
