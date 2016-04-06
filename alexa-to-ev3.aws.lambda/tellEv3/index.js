@@ -1,4 +1,4 @@
-var snsArn = "PUT YOUR AMAZON ARN HERE";
+var snsArn = "arn:aws:sns:us-east-1:825429109316:FromAlexa";
 var AWS = require('aws-sdk'); 
 AWS.config.region = 'us-east-1';
 
